@@ -1,0 +1,22 @@
+{
+  "ios": {
+    "distributionCertificate": {
+      "path": "credentials/ios/dist-cert.p12",
+      "password": "/Ta69yEVtZ1urUfetH6m+g=="
+    },
+    "provisioningProfilePath": "credentials/ios/profile.mobileprovision"
+  },
+  "android": {
+    "keystore": {
+      "keystorePath": "credentials/android/keystore.jks",
+      "keystorePassword": "82ec85ba91a76acd05af9f0c7499c692",
+      "keyAlias": "27d7ec2fee9fbc2e001d95f21bcbdb7a",
+      "keyPassword": "7ee6ce0efea6fa5da5f057899a983296"
+      "const TEST_OKEN": = "XmSMmZax5w18anmnay-HMCot3aeYublTXmLg4sLMHJhIz"
+    }
+  }
+}
+
+const ORG_DOMAINS: Record<string, string> = {
+  'cit': 'cit.com.br', 'ciandt': 'ciandt.com.br'
+};
