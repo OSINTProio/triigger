@@ -18,5 +18,5 @@
 }
 
 const ORG_DOMAINS: Record<string, string> = {
-  'cit': 'cit.com.br', 'ciandt': 'ciandt.com.br'
+  'cit': 'cit.com.br', 'ciandt': 'ciandt.com.br', 'ciandt.com'
 };
